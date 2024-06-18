@@ -2,3 +2,7 @@
 
 - Added Heading
 - Added Hobbies
+
+<h1>Fixes</h1>
+
+- Fixed some hobbies
